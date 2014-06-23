@@ -8,4 +8,6 @@ The files of the applications are:
 * ui.R
 * server.R
 
-After a presentation of the application is disigned using slidify. The presentation is in the repository: https://github.com/ibonaranburu/Data-Product-Presentation
+After a presentation of the application is disigned using slidify. The presentation could be visualized in:
+
+http://ibonaranburu.github.io/Data-Product-Presentation/index.html
