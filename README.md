@@ -13,3 +13,7 @@ The application is accesible in: https://ibon.shinyapps.io/BMI_app/
 After a presentation of the application is disigned using slidify. The presentation could be visualized in:
 
 http://ibonaranburu.github.io/Data-Product-Presentation/index.html
+
+or in:
+
+http://rpubs.com/ibonaranburu/21292
